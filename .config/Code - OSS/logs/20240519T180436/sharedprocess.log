@@ -1,0 +1,28 @@
+2024-05-19 18:09:56.827 [info] Getting Manifest... miguelsolorio.fluent-icons
+2024-05-19 18:09:57.081 [info] Installing extension: miguelsolorio.fluent-icons
+2024-05-19 18:10:06.109 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-05-19 18:10:06.111 [info] Extension signature verification is not done: miguelsolorio.fluent-icons
+2024-05-19 18:10:06.472 [info] Extracted extension to file:///home/robert/.vscode-oss/extensions/miguelsolorio.fluent-icons-0.0.17-universal: miguelsolorio.fluent-icons
+2024-05-19 18:10:06.480 [info] Renamed to /home/robert/.vscode-oss/extensions/miguelsolorio.fluent-icons-0.0.17-universal
+2024-05-19 18:10:06.488 [info] Extracting extension completed. miguelsolorio.fluent-icons
+2024-05-19 18:10:06.511 [info] Extension installed successfully: miguelsolorio.fluent-icons
+2024-05-19 18:10:06.592 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/robert/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/robert/.vscode-oss/extensions/extensions.json.vsctmp'
+    at a.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:29989)
+    at b (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30100)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109493)
+2024-05-19 18:11:15.593 [info] Uninstalling extension from the profile: miguelsolorio.fluent-icons@0.0.17 vscode-userdata:/home/robert/.vscode-oss/extensions/extensions.json
+2024-05-19 18:11:15.662 [info] Marked extension as uninstalled miguelsolorio.fluent-icons-0.0.17-universal
+2024-05-19 18:11:15.718 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/robert/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/robert/.vscode-oss/extensions/extensions.json.vsctmp'
+    at a.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:29989)
+    at b (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30100)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async K.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109493)
+2024-05-19 18:11:16.634 [info] Successfully uninstalled extension from the profile miguelsolorio.fluent-icons@0.0.17 vscode-userdata:/home/robert/.vscode-oss/extensions/extensions.json

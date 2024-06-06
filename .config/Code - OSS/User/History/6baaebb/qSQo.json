@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "off",
+    "editor.rulers": [80, 120],
+    "extensions.ignoreRecommendations": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.editor.empty.hint": "text",
+}

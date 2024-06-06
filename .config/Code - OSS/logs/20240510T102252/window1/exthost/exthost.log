@@ -1,0 +1,13 @@
+2024-05-10 10:22:56.463 [info] Extension host with pid 2729 started
+2024-05-10 10:22:56.801 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-10 10:22:56.831 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-10 10:22:56.924 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-10 10:22:57.620 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-10 10:22:57.758 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-10 10:22:57.844 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-10 10:22:57.989 [info] Eager extensions activated
+2024-05-10 10:22:58.041 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-10 10:22:58.045 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-10 10:23:16.390 [warning] vscode.json-language-features - Code actions of kind 'source.fixAll.eslint 'requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-05-10 10:23:18.893 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-10 10:23:18.921 [info] Extension host with pid 2729 exiting with code 0
