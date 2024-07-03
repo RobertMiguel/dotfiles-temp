@@ -1,0 +1,27 @@
+Volume
+
+     (fa-volume-up)
+     (fa-volume-down)
+     (fa-volume-off)
+    墳 (nf-mdi-volume_high)
+
+Memória RAM
+
+     (fa-microchip)
+     (nf-mdi-memory)
+    省 (nf-fa-database)
+     (nf-dev-linux)
+
+Processador (CPU)
+
+     (fa-microchip)
+     (nf-mdi-memory)
+     (nf-dev-linux)
+     (fa-microchip)
+
+Wi-Fi
+
+     (fa-wifi)
+    直 (nf-mdi-wifi)
+     (fa-lock)
+     (nf-mdi-signal_wifi_3_bar)
